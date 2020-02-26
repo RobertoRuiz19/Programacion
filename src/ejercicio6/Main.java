@@ -20,6 +20,10 @@ public class Main {
 		System.out.println("----------------");
 		f5.muestraFactura();
 		System.out.println("----------------");
+		f1.muestraFactura();
+		System.out.println("----------------");
+		f3.muestraFacIngreso();
+		System.out.println("----------------");
 	}
 
 }
